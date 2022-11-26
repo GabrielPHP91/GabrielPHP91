@@ -1,5 +1,6 @@
-- 👋 Opa! Me chamo Gabriel Bahia e sou estudante na área de desenvolvimento.
-- 🌱 No momento estou estudando os princípios da programação Web. Aluno da Rocket Seat
+- Opa! Me chamo Gabriel Bahia.
+- Aluno Rocket Seat.
+- Repositórios dedicado para estudos.
 
 <!---
 Obrigado!
